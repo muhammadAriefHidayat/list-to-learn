@@ -1,0 +1,102 @@
+Here is a list of 100 topics that you could cover while learning android development using Kotlin:
+
+Basic Syntax
+Variables and Data Types
+Control Flow and Loops
+Functions
+Classes and Objects
+Null Safety
+Inheritance and Polymorphism
+Extension Functions
+Higher-Order Functions
+Lambdas and Anonymous Functions
+Collections
+Properties and Fields
+Constructors
+Access Modifiers
+Interfaces
+Enumerations
+Sealed Classes
+Generics
+Type Inference
+Coroutines
+Android Studio
+Basic App Structure
+Activities
+Services
+Broadcast Receivers
+Content Providers
+UI Design
+Layouts
+ViewGroups
+Views
+Touch Events
+Resources
+Styles and Themes
+Drawables
+Menus
+Dialogs
+Toast
+Notifications
+Animation
+Intents
+Fragments
+Navigation
+ViewModel
+LiveData
+Room
+SQLite
+Content Resolver
+SharedPreferences
+Networking
+Retrofit
+OkHttp
+WebView
+Threading
+AsyncTask
+HandlerThread
+Service
+JobScheduler
+WorkManager
+Alarm Manager
+BroadcastReceiver
+WebSocket
+Firebase
+Firebase Cloud Firestore
+Firebase Cloud Storage
+Firebase Cloud Messaging
+Firebase Authentication
+Google Sign-In
+Google Maps
+Google Places
+Google Directions
+Google Geocoding
+Google Location
+Google Calendar
+Google Contacts
+Google Drive
+Google Photos
+Google Maps Android API
+Google Places API
+Google Directions API
+Google Geocoding API
+Google Location Services API
+Google Calendar API
+Google Contacts API
+Google Drive API
+Google Photos API
+Gradle
+Build Variants
+Build Types
+Signing Configs
+Flavors
+Proguard
+DexGuard
+Lint
+Data Binding
+MVVM
+MVP
+MVC
+Dagger
+Koin
+Glide
